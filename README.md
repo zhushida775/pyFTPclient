@@ -10,8 +10,4 @@ Features:
 - it can reconnect and download file from the point of disconnect.  
 
 
-test
-test2
-zhushida
-zhushida
-
+please
