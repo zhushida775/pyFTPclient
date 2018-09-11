@@ -8,3 +8,6 @@ Features:
 - it changes socket settings for optimal download,  
 - it monitors status of the FTP connection
 - it can reconnect and download file from the point of disconnect.  
+
+
+test
